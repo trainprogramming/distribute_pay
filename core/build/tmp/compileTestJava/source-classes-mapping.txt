@@ -1,0 +1,12 @@
+com/appchemist/distribute_pay/application/service/DistributePayServiceTest.java
+ com.appchemist.distribute_pay.application.service.DistributePayServiceTest
+com/appchemist/distribute_pay/application/service/SameDistributeTest.java
+ com.appchemist.distribute_pay.application.service.SameDistributeTest
+com/appchemist/distribute_pay/application/service/InquiryDistributePayServiceTest.java
+ com.appchemist.distribute_pay.application.service.InquiryDistributePayServiceTest
+com/appchemist/distribute_pay/application/service/RandomTokenGeneratorTest.java
+ com.appchemist.distribute_pay.application.service.RandomTokenGeneratorTest
+com/appchemist/distribute_pay/domain/DistributePayTest.java
+ com.appchemist.distribute_pay.domain.DistributePayTest
+com/appchemist/distribute_pay/application/service/PickUpServiceTest.java
+ com.appchemist.distribute_pay.application.service.PickUpServiceTest

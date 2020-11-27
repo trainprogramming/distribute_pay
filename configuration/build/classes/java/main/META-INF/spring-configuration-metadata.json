@@ -1,0 +1,33 @@
+{
+  "groups": [
+    {
+      "name": "distributepay",
+      "type": "com.appchemist.distribute_pay.DistributePayConfigurationProperties",
+      "sourceType": "com.appchemist.distribute_pay.DistributePayConfigurationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "distributepay.mongodb-name",
+      "type": "java.lang.String",
+      "sourceType": "com.appchemist.distribute_pay.DistributePayConfigurationProperties"
+    },
+    {
+      "name": "distributepay.mongodb-url",
+      "type": "java.lang.String",
+      "sourceType": "com.appchemist.distribute_pay.DistributePayConfigurationProperties"
+    },
+    {
+      "name": "distributepay.redis-host",
+      "type": "java.lang.String",
+      "sourceType": "com.appchemist.distribute_pay.DistributePayConfigurationProperties"
+    },
+    {
+      "name": "distributepay.redis-port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.appchemist.distribute_pay.DistributePayConfigurationProperties",
+      "defaultValue": 0
+    }
+  ],
+  "hints": []
+}

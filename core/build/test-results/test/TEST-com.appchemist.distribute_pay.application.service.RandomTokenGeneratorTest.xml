@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.appchemist.distribute_pay.application.service.RandomTokenGeneratorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-11-23T12:42:00" hostname="Appchemists-MacBookPro.local" time="0.002">
+  <properties/>
+  <testcase name="토큰생성_기본()" classname="com.appchemist.distribute_pay.application.service.RandomTokenGeneratorTest" time="0.001"/>
+  <testcase name="토큰생성_길이_0()" classname="com.appchemist.distribute_pay.application.service.RandomTokenGeneratorTest" time="0.0"/>
+  <testcase name="토큰생성_길이_6()" classname="com.appchemist.distribute_pay.application.service.RandomTokenGeneratorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

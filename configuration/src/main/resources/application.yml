@@ -1,0 +1,18 @@
+spring:
+  autoconfigure:
+    exclude:
+      - org.springframework.boot.autoconfigure.data.redis.RedisAutoConfiguration
+      - org.springframework.boot.autoconfigure.data.redis.RedisRepositoriesAutoConfiguration
+  data:
+    redis:
+      repositories.enabled: false
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+server:
+  port: 8080
+distributepay:
+  redisHost: 127.0.0.1
+  redisPort: 6379
+  mongodbUrl: mongodb://127.0.0.1:27017
+  mongodbName: appchemist

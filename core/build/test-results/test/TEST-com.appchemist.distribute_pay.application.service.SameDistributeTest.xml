@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.appchemist.distribute_pay.application.service.SameDistributeTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-23T12:41:59" hostname="Appchemists-MacBookPro.local" time="0.594">
+  <properties/>
+  <testcase name="두_건_테스트()" classname="com.appchemist.distribute_pay.application.service.SameDistributeTest" time="0.001"/>
+  <testcase name="여러건_최대_케이스()" classname="com.appchemist.distribute_pay.application.service.SameDistributeTest" time="0.591"/>
+  <testcase name="단건_테스트()" classname="com.appchemist.distribute_pay.application.service.SameDistributeTest" time="0.001"/>
+  <testcase name="여러건_동일하게_나눠지지_않는_케이스()" classname="com.appchemist.distribute_pay.application.service.SameDistributeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
