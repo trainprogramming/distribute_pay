@@ -1,0 +1,6 @@
+include 'core'
+include 'data'
+include 'common'
+include 'configuration'
+include 'web'
+
